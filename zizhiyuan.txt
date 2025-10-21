@@ -2,7 +2,7 @@
 神乐影院,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 
 JJ斗地主,https://live2-play-a.live.jjmatch.com/hilive/1977232883680677888_hd.flv
-JJ斗地主,https://openhls-hw.douyucdn2.cn/live/488743rAHScWyyII_2000.m3u8?txSecret=da89f605b6f0cb98d6698cb87f278534&txTime=68ef26c5&token=h5-douyu-0-488743-7b56a9bfb54388d676b33412819e712b&did=6ce32236db901c5704e776ee000417p1&origin=dy&vhost=play4&sid=421537780
+JJ斗地主,https://live2-play-a.live.jjmatch.com/hilive/1980565012258885632_hd.flv
 JJ斗地主,http://openhls-hw.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 
